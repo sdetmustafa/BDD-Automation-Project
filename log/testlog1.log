@@ -1,0 +1,2014 @@
+2021-02-06 23:01:49,814 [main] INFO logger_File - Scenario Search functionality of Test case Started 
+2021-02-06 23:01:54,237 [main] INFO logger_File - Retail page is opened
+2021-02-06 23:01:54,247 [main] INFO logger_File - Page title  is verified
+2021-02-06 23:01:54,872 [main] INFO logger_File - User entered value in search bar
+2021-02-06 23:01:55,743 [main] INFO logger_File - User clicked on search button
+2021-02-06 23:01:56,105 [main] INFO logger_File - iPhone image is displayed
+2021-02-06 23:01:56,768 [main] INFO logger_File - Search functionality of Test case   passed
+2021-02-08 19:03:20,264 [main] INFO logger_File - Scenario Search functionality of Test case Started 
+2021-02-08 19:03:24,743 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:03:24,758 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:03:25,621 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:03:25,630 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:03:26,119 [main] INFO logger_File - User entered value in search bar
+2021-02-08 19:03:26,935 [main] INFO logger_File - User clicked on search button
+2021-02-08 19:03:27,322 [main] INFO logger_File - iPhone image is displayed
+2021-02-08 19:03:27,978 [main] INFO logger_File - Search functionality of Test case   passed
+2021-02-08 19:03:27,984 [main] INFO logger_File - Scenario Test Search Functinality with multiple set of Data Started 
+2021-02-08 19:03:31,181 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:03:31,189 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:03:31,810 [main] INFO logger_File - User entered value in search bar
+2021-02-08 19:03:32,555 [main] INFO logger_File - User clicked on search button
+2021-02-08 19:03:33,201 [main] INFO logger_File - Test Search Functinality with multiple set of Data   passed
+2021-02-08 19:03:33,208 [main] INFO logger_File - Scenario Test Search Functinality with multiple set of Data Started 
+2021-02-08 19:03:36,437 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:03:36,443 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:03:37,110 [main] INFO logger_File - User entered value in search bar
+2021-02-08 19:03:37,873 [main] INFO logger_File - User clicked on search button
+2021-02-08 19:03:38,515 [main] INFO logger_File - Test Search Functinality with multiple set of Data   passed
+2021-02-08 19:03:38,524 [main] INFO logger_File - Scenario Test Search Functinality with multiple set of Data Started 
+2021-02-08 19:03:41,606 [main] INFO logger_File - Retail page is opened
+2021-02-08 19:03:41,613 [main] INFO logger_File - Page title  is verified
+2021-02-08 19:03:42,213 [main] INFO logger_File - User entered value in search bar
+2021-02-08 19:03:43,002 [main] INFO logger_File - User clicked on search button
+2021-02-08 19:03:43,649 [main] INFO logger_File - Test Search Functinality with multiple set of Data   passed
+2021-02-08 20:34:12,119 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-08 20:34:16,380 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:34:16,389 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:34:17,668 [main] INFO logger_File - Register an Account Test Case   undefined
+2021-02-08 21:20:24,699 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-08 21:20:28,500 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:20:28,508 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:21:14,839 [main] INFO logger_File - Register an Account Test Case   failed
+2021-02-08 21:31:16,220 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-08 21:31:19,969 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:31:19,979 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:32:10,239 [main] INFO logger_File - Register an Account Test Case   failed
+2021-02-08 21:33:02,755 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-08 21:33:06,538 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:33:06,545 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:33:56,751 [main] INFO logger_File - Register an Account Test Case   failed
+2021-02-08 23:10:54,307 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-08 23:10:59,157 [main] INFO logger_File - Retail page is opened
+2021-02-08 23:10:59,167 [main] INFO logger_File - Page title  is verified
+2021-02-08 23:11:21,358 [main] INFO logger_File - User clicked on Register option
+2021-02-08 23:17:17,498 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-08 23:17:22,968 [main] INFO logger_File - Retail page is opened
+2021-02-08 23:17:22,977 [main] INFO logger_File - Page title  is verified
+2021-02-08 23:17:45,541 [main] INFO logger_File - User clicked on Register option
+2021-02-09 11:52:43,871 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 11:52:48,018 [main] INFO logger_File - Retail page is opened
+2021-02-09 11:52:48,028 [main] INFO logger_File - Page title  is verified
+2021-02-09 11:53:34,364 [main] INFO logger_File - Register an Account test case   failed
+2021-02-09 11:57:15,746 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 11:57:19,600 [main] INFO logger_File - Retail page is opened
+2021-02-09 11:57:19,608 [main] INFO logger_File - Page title  is verified
+2021-02-09 11:58:05,831 [main] INFO logger_File - Register an Account test case   failed
+2021-02-09 12:30:39,248 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 12:30:44,450 [main] INFO logger_File - Retail page is opened
+2021-02-09 12:30:44,459 [main] INFO logger_File - Page title  is verified
+2021-02-09 12:31:30,542 [main] INFO logger_File - Register an Account test case   failed
+2021-02-09 15:02:17,220 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 15:02:21,048 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:02:21,057 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:03:07,459 [main] INFO logger_File - Register an Account test case   failed
+2021-02-09 15:32:28,233 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 15:32:42,927 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:32:42,937 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:32:44,108 [main] INFO logger_File - User clicked on Register option
+2021-02-09 15:32:44,495 [main] INFO logger_File - User filled the information form
+2021-02-09 15:32:44,922 [main] INFO logger_File - User check the privacy and policy
+2021-02-09 15:32:46,153 [main] INFO logger_File - User clicked on continue buttton
+2021-02-09 15:32:46,488 [main] INFO logger_File - Account was created Successfully
+2021-02-09 15:32:47,121 [main] INFO logger_File - Register an Account test case   passed
+2021-02-09 15:39:52,494 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 15:39:56,197 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:39:56,207 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:39:57,387 [main] INFO logger_File - User clicked on Register option
+2021-02-09 15:39:57,765 [main] INFO logger_File - User filled the information form
+2021-02-09 15:39:58,196 [main] INFO logger_File - User check the privacy and policy
+2021-02-09 15:39:58,782 [main] INFO logger_File - User clicked on continue buttton
+2021-02-09 18:11:56,577 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 18:12:00,422 [main] INFO logger_File - Retail page is opened
+2021-02-09 18:12:00,429 [main] INFO logger_File - Page title  is verified
+2021-02-09 18:12:01,697 [main] INFO logger_File - User clicked on Register option
+2021-02-09 18:12:02,109 [main] INFO logger_File - User filled the information form
+2021-02-09 18:12:02,514 [main] INFO logger_File - User check the privacy and policy
+2021-02-09 18:12:03,363 [main] INFO logger_File - User clicked on continue buttton
+2021-02-09 18:12:03,712 [main] INFO logger_File - Account was created Successfully
+2021-02-09 18:12:04,338 [main] INFO logger_File - Register an Account test case   passed
+2021-02-09 19:58:34,739 [main] INFO logger_File - Scenario Execute all information from actor table Started 
+2021-02-09 19:58:38,441 [main] INFO logger_File - Connection is established between JDBC and DataBase
+2021-02-09 19:58:39,188 [main] INFO logger_File - Execute all information from actor table   failed
+2021-02-09 20:03:00,405 [main] INFO logger_File - Scenario Execute all information from actor table Started 
+2021-02-09 20:03:02,854 [main] INFO logger_File - Connection is established between JDBC and DataBase
+2021-02-09 20:03:03,527 [main] INFO logger_File - Execute all information from actor table   failed
+2021-02-09 20:05:36,193 [main] INFO logger_File - Scenario Execute all information from actor table Started 
+2021-02-09 20:05:38,394 [main] INFO logger_File - Connection is established between JDBC and DataBase
+2021-02-09 20:05:39,039 [main] INFO logger_File - Execute all information from actor table   failed
+2021-02-09 20:08:54,765 [main] INFO logger_File - Scenario Execute all information from actor table Started 
+2021-02-09 20:08:57,055 [main] INFO logger_File - Connection is established between JDBC and DataBase
+2021-02-09 20:08:57,724 [main] INFO logger_File - Execute all information from actor table   failed
+2021-02-09 20:14:46,967 [main] INFO logger_File - Scenario Execute all information from actor table Started 
+2021-02-09 20:14:49,256 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:14:49,909 [main] INFO logger_File - Execute all information from actor table   failed
+2021-02-09 20:35:00,058 [main] INFO logger_File - Scenario Execute all information from actor table Started 
+2021-02-09 20:35:02,946 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:35:03,586 [main] INFO logger_File - Execute all information from actor table   failed
+2021-02-09 20:42:10,566 [main] INFO logger_File - Scenario Execute all information from actor table Started 
+2021-02-09 20:42:12,966 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:42:12,990 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 20:42:13,020 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:42:13,021 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 20:42:13,643 [main] INFO logger_File - Execute all information from actor table   passed
+2021-03-26 23:37:13,609 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-26 23:37:21,716 [main] INFO logger_File - Retail page is opened
+2021-03-26 23:37:22,329 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-26 23:37:22,334 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-26 23:37:25,394 [main] INFO logger_File - Retail page is opened
+2021-03-26 23:37:26,000 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-26 23:37:26,006 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-26 23:37:29,078 [main] INFO logger_File - Retail page is opened
+2021-03-26 23:37:29,682 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-26 23:37:29,688 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-26 23:37:32,707 [main] INFO logger_File - Retail page is opened
+2021-03-26 23:37:33,307 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 00:25:19,336 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 00:25:23,349 [main] INFO logger_File - Retail page is opened
+2021-03-27 00:25:23,974 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 00:25:23,978 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 00:25:27,136 [main] INFO logger_File - Retail page is opened
+2021-03-27 00:25:28,381 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 00:25:28,387 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 00:25:31,591 [main] INFO logger_File - Retail page is opened
+2021-03-27 00:25:33,359 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 00:25:33,365 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 00:25:36,556 [main] INFO logger_File - Retail page is opened
+2021-03-27 00:25:37,162 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 09:48:06,326 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-27 09:48:10,245 [main] INFO logger_File - Retail page is opened
+2021-03-27 09:48:10,891 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-27 09:48:10,896 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-27 09:48:14,082 [main] INFO logger_File - Retail page is opened
+2021-03-27 09:48:14,704 [main] INFO logger_File - Product Comparison   failed
+2021-03-27 09:48:14,711 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-27 09:48:18,107 [main] INFO logger_File - Retail page is opened
+2021-03-27 09:48:18,713 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-03-27 09:48:18,719 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-27 09:48:21,971 [main] INFO logger_File - Retail page is opened
+2021-03-27 09:48:22,979 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-27 11:07:43,641 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-27 11:07:47,667 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:07:48,299 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-27 11:07:48,305 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-27 11:07:51,561 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:07:52,177 [main] INFO logger_File - Product Comparison   failed
+2021-03-27 11:07:52,181 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-27 11:07:55,464 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:07:56,069 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-03-27 11:07:56,076 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-27 11:07:59,265 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:07:59,882 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-27 11:11:07,641 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-27 11:11:11,609 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:11:12,243 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-27 11:11:12,251 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-27 11:11:15,534 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:11:16,466 [main] INFO logger_File - Product Comparison   failed
+2021-03-27 11:11:16,471 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-27 11:11:19,819 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:11:20,701 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-03-27 11:11:20,704 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-27 11:11:23,940 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:11:24,567 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-27 11:14:17,017 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-27 11:14:22,181 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:14:22,805 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-27 11:14:22,810 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-27 11:14:26,090 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:14:26,713 [main] INFO logger_File - Product Comparison   failed
+2021-03-27 11:14:26,719 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-27 11:14:30,008 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:14:30,614 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-03-27 11:14:30,621 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-27 11:14:33,805 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:14:34,413 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-27 11:20:34,442 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-27 11:20:38,327 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:20:40,106 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-27 11:20:40,114 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-27 11:20:43,394 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:20:44,002 [main] INFO logger_File - Product Comparison   failed
+2021-03-27 11:20:44,009 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-27 11:20:47,154 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:20:47,765 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-03-27 11:20:47,772 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-27 11:20:51,049 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:20:51,655 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-27 11:23:19,162 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-27 11:23:23,194 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:23:23,817 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-27 11:23:23,822 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-27 11:23:27,081 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:23:27,712 [main] INFO logger_File - Product Comparison   failed
+2021-03-27 11:23:27,718 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-27 11:23:31,053 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:23:31,759 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-03-27 11:23:31,764 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-27 11:23:34,900 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:23:36,648 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-27 11:24:12,112 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-27 11:24:15,848 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:24:16,481 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-27 11:24:16,486 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-27 11:24:19,830 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:24:20,436 [main] INFO logger_File - Product Comparison   failed
+2021-03-27 11:24:20,446 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-27 11:24:23,774 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:24:24,382 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-03-27 11:24:24,388 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-27 11:24:27,513 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:24:29,276 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-27 11:26:17,160 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-27 11:26:21,083 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:26:21,723 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-27 11:26:21,728 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-27 11:26:24,851 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:26:25,465 [main] INFO logger_File - Product Comparison   failed
+2021-03-27 11:26:25,471 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-27 11:26:28,755 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:26:29,366 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-03-27 11:26:29,373 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-27 11:26:33,474 [main] INFO logger_File - Retail page is opened
+2021-03-27 11:26:34,080 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-27 12:26:46,771 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-27 12:26:51,259 [main] INFO logger_File - Retail page is opened
+2021-03-27 12:26:51,886 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-27 12:26:51,889 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-27 12:26:55,180 [main] INFO logger_File - Retail page is opened
+2021-03-27 12:26:55,803 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-27 12:26:55,811 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-27 12:26:59,194 [main] INFO logger_File - Retail page is opened
+2021-03-27 12:26:59,811 [main] INFO logger_File - Edit your account Information   failed
+2021-03-27 12:46:58,444 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-27 12:47:02,278 [main] INFO logger_File - Retail page is opened
+2021-03-27 12:47:02,928 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-27 12:47:02,933 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-27 12:47:06,188 [main] INFO logger_File - Retail page is opened
+2021-03-27 12:47:06,934 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-27 12:47:06,940 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-27 12:47:10,223 [main] INFO logger_File - Retail page is opened
+2021-03-27 12:47:11,159 [main] INFO logger_File - Edit your account Information   failed
+2021-03-27 13:40:03,662 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-27 13:40:07,697 [main] INFO logger_File - Retail page is opened
+2021-03-27 13:40:08,673 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-27 13:40:08,680 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-27 13:40:11,769 [main] INFO logger_File - Retail page is opened
+2021-03-27 13:40:12,381 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-27 13:40:12,389 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-27 13:40:15,561 [main] INFO logger_File - Retail page is opened
+2021-03-27 13:40:16,179 [main] INFO logger_File - Edit your account Information   failed
+2021-03-27 19:05:49,763 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-27 19:05:53,905 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:05:54,554 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-27 19:05:54,560 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-27 19:05:57,653 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:05:58,266 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-27 19:05:58,272 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-27 19:06:01,377 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:06:02,134 [main] INFO logger_File - Edit your account Information   failed
+2021-03-27 19:10:17,059 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-27 19:10:20,802 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:10:21,437 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-27 19:10:21,441 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-27 19:10:24,564 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:10:25,172 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-27 19:10:25,174 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-27 19:10:28,288 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:10:28,911 [main] INFO logger_File - Edit your account Information   failed
+2021-03-27 19:11:17,595 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-27 19:11:21,339 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:11:21,977 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-27 19:11:21,981 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-27 19:11:25,051 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:11:25,669 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-27 19:11:25,675 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-27 19:11:28,710 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:11:29,322 [main] INFO logger_File - Edit your account Information   failed
+2021-03-27 19:16:02,103 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 19:16:06,017 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:16:06,632 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 19:16:06,636 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 19:16:09,646 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:16:10,253 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 19:16:10,259 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 19:16:13,391 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:16:14,012 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 19:16:14,017 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 19:16:17,041 [main] INFO logger_File - Retail page is opened
+2021-03-27 19:16:17,660 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 21:08:34,563 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 21:08:38,508 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:08:39,147 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 21:08:39,150 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 21:08:42,720 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:08:43,327 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 21:08:43,332 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 21:08:47,332 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:08:47,937 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 21:08:47,943 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 21:08:51,141 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:08:51,753 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 21:12:29,196 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 21:12:32,915 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:12:33,545 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 21:12:33,550 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 21:12:36,521 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:12:37,760 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 21:12:37,767 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 21:12:40,959 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:12:41,567 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 21:12:41,574 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 21:12:44,746 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:12:45,355 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 21:20:03,555 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 21:20:07,362 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:20:07,975 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 21:20:07,980 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 21:20:11,405 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:20:12,012 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 21:20:12,015 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 21:20:15,228 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:20:15,831 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 21:20:15,847 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 21:20:19,101 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:20:19,708 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 21:21:41,394 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 21:21:45,180 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:21:45,823 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 21:21:45,827 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 21:21:49,037 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:21:49,651 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 21:21:49,659 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 21:21:52,853 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:21:53,476 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 21:21:53,483 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 21:21:56,673 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:21:57,297 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 21:23:27,248 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 21:23:32,089 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:23:32,716 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 21:23:32,719 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 21:23:36,328 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:23:36,949 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 21:23:36,955 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 21:23:42,095 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:23:42,725 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 21:23:42,729 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 21:23:46,714 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:23:47,341 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 21:29:09,015 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 21:29:12,815 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:29:12,817 [main] INFO logger_File - Page title  is verified
+2021-03-27 21:29:15,457 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 21:29:19,031 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 21:30:05,041 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 21:30:05,046 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 21:30:08,187 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:30:08,187 [main] INFO logger_File - Page title  is verified
+2021-03-27 21:30:10,714 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 21:30:14,214 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 21:30:14,635 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-27 21:31:05,746 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 21:31:05,754 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 21:31:08,838 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:31:08,838 [main] INFO logger_File - Page title  is verified
+2021-03-27 21:31:11,370 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 21:31:11,902 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 21:31:57,928 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 21:31:57,934 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 21:32:01,197 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:32:01,198 [main] INFO logger_File - Page title  is verified
+2021-03-27 21:32:03,678 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 21:32:07,187 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 21:32:08,843 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 21:32:09,230 [main] INFO logger_File - User clicks on review link
+2021-03-27 21:32:10,422 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 21:59:43,271 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 21:59:47,204 [main] INFO logger_File - Retail page is opened
+2021-03-27 21:59:47,206 [main] INFO logger_File - Page title  is verified
+2021-03-27 21:59:49,717 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 21:59:53,174 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:00:39,256 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 22:00:39,260 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 22:00:42,450 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:00:42,452 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:00:44,889 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:00:48,588 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:00:49,001 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-27 22:01:19,302 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 22:01:22,576 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:01:22,577 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:01:25,127 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:01:28,638 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:02:00,485 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 22:02:03,684 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:02:03,685 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:02:06,134 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:02:09,615 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:02:11,270 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 22:02:11,694 [main] INFO logger_File - User clicks on review link
+2021-03-27 22:02:16,796 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 22:05:36,872 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 22:05:40,876 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:05:40,880 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:05:43,352 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:05:46,904 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:06:32,919 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 22:06:32,926 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 22:06:36,469 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:06:36,471 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:06:38,889 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:06:42,472 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:06:42,881 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-27 22:07:34,154 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 22:07:34,161 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 22:07:37,401 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:07:37,402 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:07:39,832 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:07:43,329 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:08:29,340 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 22:08:29,344 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 22:08:32,530 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:08:32,531 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:08:34,959 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:08:38,516 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:08:40,226 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 22:08:40,648 [main] INFO logger_File - User clicks on review link
+2021-03-27 22:08:42,498 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 22:12:10,075 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 22:12:14,159 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:12:14,162 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:12:16,708 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:12:20,184 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:13:06,261 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 22:13:06,267 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 22:13:09,536 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:13:09,536 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:13:11,982 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:13:15,504 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:13:15,929 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-27 22:14:07,136 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 22:14:07,144 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 22:14:10,350 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:14:10,350 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:14:12,815 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:14:16,294 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:15:02,297 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 22:15:02,301 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 22:15:05,819 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:15:05,820 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:15:08,272 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:15:11,630 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:15:13,214 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 22:15:13,621 [main] INFO logger_File - User clicks on review link
+2021-03-27 22:15:14,792 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 22:24:32,515 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 22:24:36,529 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:24:36,532 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:24:39,022 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:24:42,515 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:25:28,541 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 22:25:28,547 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 22:25:31,761 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:25:31,762 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:25:34,252 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:25:37,997 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:25:38,416 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-27 22:26:29,620 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 22:26:29,626 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 22:26:32,763 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:26:32,765 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:26:35,218 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:26:38,773 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:27:07,832 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-27 22:27:57,869 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 22:27:57,877 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 22:28:01,192 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:28:01,192 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:28:03,682 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:28:07,332 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:28:09,003 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 22:28:09,406 [main] INFO logger_File - User clicks on review link
+2021-03-27 22:28:14,493 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 22:50:51,328 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 22:50:55,584 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:50:55,587 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:50:58,033 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:51:01,474 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:51:48,516 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 22:51:48,523 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 22:51:52,098 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:51:52,099 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:51:54,544 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:51:58,080 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:51:59,495 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-27 22:52:51,651 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 22:52:51,658 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 22:52:55,235 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:52:55,236 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:52:57,678 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:53:01,218 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:53:48,211 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 22:53:48,219 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 22:53:51,677 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:53:51,677 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:53:54,095 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:53:57,717 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:54:00,414 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 22:54:01,816 [main] INFO logger_File - User clicks on review link
+2021-03-27 22:54:03,967 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 22:55:22,485 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 22:55:26,630 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:55:26,633 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:55:29,077 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:55:32,651 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:56:19,692 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 22:56:19,697 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 22:56:23,153 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:56:23,154 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:56:25,590 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:56:29,231 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:56:30,648 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-27 22:57:22,814 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 22:57:22,821 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 22:57:26,209 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:57:26,210 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:57:28,632 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:57:32,513 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:57:51,615 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-27 22:58:42,689 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 22:58:42,698 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 22:58:46,157 [main] INFO logger_File - Retail page is opened
+2021-03-27 22:58:46,158 [main] INFO logger_File - Page title  is verified
+2021-03-27 22:58:48,579 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 22:58:52,330 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 22:58:55,001 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 22:58:56,422 [main] INFO logger_File - User clicks on review link
+2021-03-27 22:59:02,527 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 23:07:13,886 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 23:07:17,752 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:07:17,754 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:07:20,232 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:07:24,333 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:08:11,403 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 23:08:11,409 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 23:08:14,678 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:08:14,679 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:08:17,174 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:08:21,107 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:08:23,128 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 23:08:23,134 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 23:08:26,243 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:08:26,244 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:08:28,732 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:08:32,673 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:09:19,710 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 23:09:19,716 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 23:09:23,570 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:09:23,572 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:09:25,997 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:09:29,312 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:09:31,979 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 23:09:33,380 [main] INFO logger_File - User clicks on review link
+2021-03-27 23:09:35,542 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 23:12:24,449 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 23:12:28,852 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:12:28,854 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:12:31,325 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:12:34,612 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:13:21,674 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 23:13:21,683 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 23:13:25,259 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:13:25,260 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:13:27,676 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:13:31,230 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:13:33,244 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 23:13:33,251 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 23:13:36,691 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:13:36,692 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:13:39,102 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:13:42,755 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:14:19,465 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 23:14:23,009 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:14:23,010 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:14:25,432 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:14:29,131 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:14:31,816 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 23:14:33,217 [main] INFO logger_File - User clicks on review link
+2021-03-27 23:14:39,328 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 23:15:47,785 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 23:15:51,592 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:15:51,594 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:15:54,089 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:15:58,078 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:16:22,599 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 23:16:25,705 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:16:25,705 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:16:28,181 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:16:32,157 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:16:34,192 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 23:16:34,196 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 23:16:37,339 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:16:37,340 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:16:39,845 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:16:43,862 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:17:03,423 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 23:17:06,555 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:17:06,556 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:17:08,994 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:17:13,064 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:17:16,158 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 23:17:17,568 [main] INFO logger_File - User clicks on review link
+2021-03-27 23:17:19,726 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 23:18:19,073 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 23:18:22,880 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:18:22,883 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:18:25,387 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:18:29,286 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:18:50,438 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 23:18:53,601 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:18:53,601 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:18:56,050 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:18:59,959 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:19:01,965 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 23:19:01,969 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 23:19:05,360 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:19:05,361 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:19:07,778 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:19:11,445 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:19:49,810 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 23:19:53,035 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:19:53,035 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:19:55,455 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:19:59,436 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:20:02,434 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 23:20:03,847 [main] INFO logger_File - User clicks on review link
+2021-03-27 23:20:09,954 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 23:28:56,546 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 23:29:00,490 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:29:00,493 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:29:03,080 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:29:06,781 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:29:53,880 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 23:29:53,886 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 23:29:57,052 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:29:57,053 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:29:59,572 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:30:03,464 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:30:05,478 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 23:30:05,482 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 23:30:08,488 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:30:08,489 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:30:11,015 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:30:15,005 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:31:02,032 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-27 23:31:02,039 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 23:31:05,186 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:31:05,187 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:31:07,682 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:31:11,719 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:31:14,317 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 23:31:15,715 [main] INFO logger_File - User clicks on review link
+2021-03-27 23:31:21,815 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 23:32:14,825 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 23:32:18,442 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:32:18,444 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:32:21,028 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:32:24,849 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:33:11,867 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-27 23:33:11,875 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 23:33:14,984 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:33:14,985 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:33:17,453 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:33:21,425 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:33:23,416 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-03-27 23:33:23,423 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 23:33:33,658 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:33:33,659 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:33:36,113 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:33:37,902 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:33:52,561 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 23:33:55,746 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:33:55,747 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:33:58,249 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:34:02,078 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:34:04,776 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 23:34:06,178 [main] INFO logger_File - User clicks on review link
+2021-03-27 23:34:12,300 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 23:39:56,111 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 23:40:00,393 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:40:00,395 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:40:02,908 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:40:06,693 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:40:35,606 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 23:40:38,730 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:40:38,731 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:40:41,272 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:40:45,513 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:40:47,517 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-03-27 23:40:47,522 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 23:40:50,680 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:40:50,681 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:40:53,236 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:40:57,042 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:41:26,036 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 23:41:29,091 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:41:29,091 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:41:31,600 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:41:35,514 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:41:38,270 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 23:41:39,706 [main] INFO logger_File - User clicks on review link
+2021-03-27 23:41:45,831 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-27 23:43:12,266 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-27 23:43:15,963 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:43:15,966 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:43:18,517 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:43:22,384 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:43:44,922 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-27 23:43:48,116 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:43:48,117 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:43:50,599 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:43:54,431 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:43:56,467 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-27 23:43:56,473 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-27 23:43:59,616 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:43:59,616 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:44:02,118 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:44:05,984 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:44:25,035 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-27 23:44:28,140 [main] INFO logger_File - Retail page is opened
+2021-03-27 23:44:28,140 [main] INFO logger_File - Page title  is verified
+2021-03-27 23:44:30,669 [main] INFO logger_File - user clicked on desktop tab
+2021-03-27 23:44:34,664 [main] INFO logger_File - user clicks on show all desktops
+2021-03-27 23:44:37,235 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-27 23:44:38,654 [main] INFO logger_File - User clicks on review link
+2021-03-27 23:44:44,779 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-28 00:27:21,355 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 00:27:27,337 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:27:27,340 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:27:30,173 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:27:32,217 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:27:54,615 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-28 00:27:57,873 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:27:57,874 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:28:00,813 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:28:04,225 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:28:06,339 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-28 00:28:06,342 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-28 00:28:09,581 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:28:09,581 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:28:12,564 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:28:15,840 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:28:37,180 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-28 00:28:40,416 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:28:40,417 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:28:43,250 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:28:46,739 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:28:49,422 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-28 00:28:50,913 [main] INFO logger_File - User clicks on review link
+2021-03-28 00:28:57,101 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-28 00:31:15,559 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 00:31:19,419 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:31:19,422 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:31:22,061 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:31:25,681 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:32:02,730 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-28 00:32:05,943 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:32:05,944 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:32:08,448 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:32:12,247 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:32:14,299 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-28 00:32:14,303 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-28 00:32:17,630 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:32:17,630 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:32:20,249 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:32:23,779 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:32:32,655 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-28 00:32:35,826 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:32:35,827 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:32:38,366 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:32:42,223 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:32:44,871 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-28 00:32:46,300 [main] INFO logger_File - User clicks on review link
+2021-03-28 00:32:54,429 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-28 00:34:31,227 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 00:34:35,049 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:34:35,052 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:34:37,907 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:34:41,396 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:35:02,842 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-28 00:35:06,292 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:35:06,293 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:35:09,298 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:35:12,395 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:35:14,470 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-28 00:35:14,474 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-28 00:35:17,596 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:35:17,597 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:35:20,532 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:35:24,194 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:35:38,297 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-28 00:35:41,487 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:35:41,488 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:35:44,504 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 00:35:47,873 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 00:35:50,713 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-28 00:35:52,136 [main] INFO logger_File - User clicks on review link
+2021-03-28 00:36:00,276 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-28 00:37:28,488 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-28 00:37:32,342 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:37:32,344 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:37:34,894 [main] INFO logger_File - User clicks on laptop and notebook tab
+2021-03-28 00:37:38,579 [main] INFO logger_File - User clicked on show all option for laptop and notebook
+2021-03-28 00:38:09,904 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-28 00:38:13,075 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:38:13,076 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:38:16,148 [main] INFO logger_File - User clicks on laptop and notebook tab
+2021-03-28 00:38:22,034 [main] INFO logger_File - User clicked on show all option for laptop and notebook
+2021-03-28 00:38:22,460 [main] INFO logger_File - User clicks on product comparison icon for any computer
+2021-03-28 00:38:23,880 [main] INFO logger_File - User clicks on product comparison icon for any computer
+2021-03-28 00:38:25,309 [main] INFO logger_File - User should see a success message for MacBookAir product
+2021-03-28 00:38:25,976 [main] INFO logger_File - User clicks on comparison link
+2021-03-28 00:38:46,171 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-28 00:38:49,483 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:38:49,483 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:38:52,026 [main] INFO logger_File - User clicks on laptop and notebook tab
+2021-03-28 00:38:55,617 [main] INFO logger_File - User clicked on show all option for laptop and notebook
+2021-03-28 00:38:56,154 [main] INFO logger_File - User clicks on Sony Vaio laptop wish list
+2021-03-28 00:38:57,711 [main] INFO logger_File - User should see a message you should create an acount or must login
+2021-03-28 00:38:59,727 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-03-28 00:38:59,733 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-28 00:39:02,911 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:39:02,912 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:39:05,807 [main] INFO logger_File - User clicks on laptop and notebook tab
+2021-03-28 00:39:09,113 [main] INFO logger_File - User clicked on show all option for laptop and notebook
+2021-03-28 00:41:15,160 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-28 00:41:19,110 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:41:19,112 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:41:48,035 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-28 00:41:51,487 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:41:51,487 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:42:28,104 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-28 00:42:31,160 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:42:31,161 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:48:38,829 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-28 00:48:42,691 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:48:42,693 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:49:03,814 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-28 00:49:07,023 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:49:07,024 [main] INFO logger_File - Page title  is verified
+2021-03-28 00:49:35,422 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-28 00:49:38,480 [main] INFO logger_File - Retail page is opened
+2021-03-28 00:49:38,480 [main] INFO logger_File - Page title  is verified
+2021-03-28 22:44:59,342 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 22:45:03,313 [main] INFO logger_File - Retail page is opened
+2021-03-28 22:45:03,315 [main] INFO logger_File - Page title  is verified
+2021-03-28 22:45:05,925 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 22:45:09,662 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 22:45:56,711 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-28 22:53:05,399 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 22:53:09,056 [main] INFO logger_File - Retail page is opened
+2021-03-28 22:53:09,058 [main] INFO logger_File - Page title  is verified
+2021-03-28 22:53:11,648 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 22:53:15,493 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 22:54:02,504 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-28 22:58:33,676 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 22:58:37,433 [main] INFO logger_File - Retail page is opened
+2021-03-28 22:58:37,435 [main] INFO logger_File - Page title  is verified
+2021-03-28 22:58:39,922 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 22:58:43,893 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 22:58:45,907 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-28 22:59:50,215 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 22:59:53,929 [main] INFO logger_File - Retail page is opened
+2021-03-28 22:59:53,931 [main] INFO logger_File - Page title  is verified
+2021-03-28 22:59:56,393 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 23:00:00,272 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 23:00:47,311 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-28 23:12:48,390 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 23:12:52,129 [main] INFO logger_File - Retail page is opened
+2021-03-28 23:12:52,132 [main] INFO logger_File - Page title  is verified
+2021-03-28 23:12:54,595 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 23:12:58,501 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 23:13:45,559 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-28 23:16:05,113 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-28 23:16:09,049 [main] INFO logger_File - Retail page is opened
+2021-03-28 23:16:09,052 [main] INFO logger_File - Page title  is verified
+2021-03-28 23:16:11,559 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 23:16:15,211 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 23:17:02,225 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-28 23:17:31,141 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-28 23:17:34,924 [main] INFO logger_File - Retail page is opened
+2021-03-28 23:17:34,926 [main] INFO logger_File - Page title  is verified
+2021-03-28 23:17:37,431 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 23:17:41,259 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 23:17:43,330 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-28 23:21:47,646 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-28 23:21:51,400 [main] INFO logger_File - Retail page is opened
+2021-03-28 23:21:51,402 [main] INFO logger_File - Page title  is verified
+2021-03-28 23:21:53,955 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 23:21:57,746 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 23:22:04,948 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-28 23:22:55,999 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-28 23:26:38,948 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-28 23:26:43,154 [main] INFO logger_File - Retail page is opened
+2021-03-28 23:26:43,156 [main] INFO logger_File - Page title  is verified
+2021-03-28 23:26:45,606 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 23:26:50,053 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 23:26:52,685 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-28 23:27:43,700 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-28 23:34:48,081 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-28 23:34:52,124 [main] INFO logger_File - Retail page is opened
+2021-03-28 23:34:52,127 [main] INFO logger_File - Page title  is verified
+2021-03-28 23:34:54,580 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 23:34:58,188 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 23:35:00,943 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-28 23:35:51,981 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-28 23:58:53,918 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-28 23:58:57,985 [main] INFO logger_File - Retail page is opened
+2021-03-28 23:58:57,987 [main] INFO logger_File - Page title  is verified
+2021-03-28 23:59:00,596 [main] INFO logger_File - user clicked on desktop tab
+2021-03-28 23:59:04,295 [main] INFO logger_File - user clicks on show all desktops
+2021-03-28 23:59:51,355 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-29 00:02:23,367 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:02:27,167 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:02:27,169 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:02:29,744 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:02:33,430 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:02:34,843 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:02:41,929 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-29 00:08:55,402 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:08:59,316 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:08:59,318 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:09:01,832 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:09:05,546 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:09:06,989 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:09:14,068 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-29 00:13:48,065 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:13:51,918 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:13:51,920 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:13:54,499 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:13:58,138 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:13:59,554 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:14:02,175 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:14:49,352 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-29 00:23:11,221 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:23:15,112 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:23:15,114 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:23:17,654 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:23:21,299 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:23:22,719 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:23:25,306 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:23:57,652 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-29 00:24:01,435 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:24:01,438 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:24:04,154 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:24:07,737 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:24:16,379 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-29 00:24:54,772 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-29 00:24:54,776 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 00:24:57,991 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:24:57,992 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:25:00,436 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:25:04,274 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:25:06,915 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 00:25:15,950 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:25:19,144 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:25:19,145 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:25:21,620 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:25:25,479 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:25:26,880 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:25:29,399 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:25:45,443 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 00:25:48,672 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:25:48,672 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:25:51,132 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:25:54,912 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:25:57,532 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 00:25:58,949 [main] INFO logger_File - User clicks on review link
+2021-03-29 00:26:07,053 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 00:27:47,051 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-29 00:27:50,749 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:27:50,752 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:27:53,346 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:27:57,122 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:28:09,574 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 00:28:12,621 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:28:12,621 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:28:15,057 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:28:19,061 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:28:21,649 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 00:28:27,656 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-03-29 00:28:27,661 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:28:30,835 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:28:30,835 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:28:33,262 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:28:37,144 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:28:38,553 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:28:41,125 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:28:47,124 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   undefined
+2021-03-29 00:28:47,127 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 00:28:50,173 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:28:50,174 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:28:52,601 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:28:56,610 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:28:59,123 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 00:29:00,537 [main] INFO logger_File - User clicks on review link
+2021-03-29 00:29:08,629 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 00:34:48,268 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:34:52,014 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:34:52,018 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:34:54,496 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:34:58,380 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:34:59,815 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:35:02,330 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:35:03,781 [main] INFO logger_File - User selects the quantity
+2021-03-29 00:35:53,475 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-29 00:38:38,262 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-29 00:38:41,983 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:38:41,986 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:38:44,533 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:38:48,318 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:39:11,468 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 00:39:14,616 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:39:14,617 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:39:17,065 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:39:20,976 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:39:23,639 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 00:39:50,804 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:39:53,993 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:39:53,994 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:39:56,441 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:40:00,292 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:40:01,702 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:40:04,294 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:40:05,745 [main] INFO logger_File - User selects the quantity
+2021-03-29 00:40:06,425 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   undefined
+2021-03-29 00:40:06,427 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 00:40:09,543 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:40:09,543 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:40:12,038 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:40:16,022 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:40:18,656 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 00:40:20,077 [main] INFO logger_File - User clicks on review link
+2021-03-29 00:40:28,178 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 00:44:24,564 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:44:28,347 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:44:28,349 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:44:30,921 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:44:34,672 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:44:36,121 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:44:38,524 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:44:40,002 [main] INFO logger_File - User selects the quantity
+2021-03-29 00:44:40,047 [main] INFO logger_File - User clicks on add to the cart button
+2021-03-29 00:44:44,867 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-29 00:46:35,183 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:46:39,027 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:46:39,030 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:46:41,505 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:46:45,366 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:46:46,802 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:46:49,214 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:46:50,659 [main] INFO logger_File - User selects the quantity
+2021-03-29 00:46:50,699 [main] INFO logger_File - User clicks on add to the cart button
+2021-03-29 00:46:55,522 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   failed
+2021-03-29 00:49:32,071 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 00:49:35,824 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:49:35,825 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:49:38,377 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:49:42,136 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:49:43,550 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 00:49:46,102 [main] INFO logger_File - User select color from drop down
+2021-03-29 00:49:47,570 [main] INFO logger_File - User selects the quantity
+2021-03-29 00:49:47,611 [main] INFO logger_File - User clicks on add to the cart button
+2021-03-29 00:49:47,613 [main] INFO logger_File - User should see the success message for canon
+2021-03-29 00:49:53,615 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   passed
+2021-03-29 00:51:18,000 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 00:51:21,784 [main] INFO logger_File - Retail page is opened
+2021-03-29 00:51:21,786 [main] INFO logger_File - Page title  is verified
+2021-03-29 00:51:24,283 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 00:51:28,091 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 00:51:30,945 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 00:51:32,374 [main] INFO logger_File - User clicks on review link
+2021-03-29 00:51:40,488 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:01:36,200 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:01:40,176 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:01:40,178 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:01:42,718 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:01:46,300 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:01:48,934 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:01:50,345 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:01:58,502 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:03:04,543 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:03:08,186 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:03:08,189 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:03:10,691 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:03:14,619 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:03:17,214 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:03:18,645 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:03:22,755 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:06:24,496 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:06:28,363 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:06:28,365 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:06:30,929 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:06:34,592 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:06:37,143 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:06:38,548 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:06:42,695 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:08:46,535 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:08:50,478 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:08:50,482 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:08:52,983 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:08:56,720 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:08:59,569 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:09:00,988 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:09:05,281 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:14:10,208 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:14:14,323 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:14:14,326 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:14:16,775 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:14:20,338 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:14:23,293 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:14:24,687 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:14:32,850 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:20:11,727 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:20:15,573 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:20:15,575 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:20:18,103 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:20:21,849 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:20:24,421 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:20:25,834 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:20:34,008 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:21:28,670 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:21:32,372 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:21:32,375 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:21:34,861 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:21:38,703 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:21:41,273 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:21:42,682 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:21:48,920 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:21:59,711 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:22:03,495 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:22:03,498 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:22:05,946 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:22:09,982 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:22:12,513 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:22:13,934 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:22:24,109 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:24:45,667 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:24:49,301 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:24:49,304 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:24:51,814 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:24:55,764 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:24:58,303 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:24:59,704 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:25:09,698 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:25:43,084 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:25:46,731 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:25:46,735 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:25:49,311 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:25:53,122 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:25:55,745 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:25:57,148 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:26:03,108 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:27:58,321 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 01:28:02,074 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:28:02,076 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:28:04,537 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:28:08,459 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:28:11,111 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 01:28:12,500 [main] INFO logger_File - User clicks on review link
+2021-03-29 01:28:18,484 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 01:28:57,306 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 01:29:00,958 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:29:00,960 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:29:03,523 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:29:07,403 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:29:10,024 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 01:30:01,071 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-29 01:32:37,328 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 01:32:41,037 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:32:41,039 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:32:43,643 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:32:47,451 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:32:50,031 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 01:33:41,061 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-29 01:43:59,917 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 01:44:03,795 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:44:03,797 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:44:06,378 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:44:10,097 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:44:12,711 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 01:45:03,719 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-29 01:48:54,422 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 01:48:58,173 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:48:58,175 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:49:00,720 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:49:04,523 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:49:07,171 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 01:49:58,221 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-29 01:54:28,060 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 01:54:32,487 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:54:32,490 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:54:34,946 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:54:38,138 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:54:41,083 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 01:55:28,212 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-29 01:57:55,365 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 01:57:59,346 [main] INFO logger_File - Retail page is opened
+2021-03-29 01:57:59,348 [main] INFO logger_File - Page title  is verified
+2021-03-29 01:58:01,821 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 01:58:05,597 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 01:58:08,385 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 01:58:59,458 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-29 02:00:43,974 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-29 02:00:47,644 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:00:47,647 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:00:50,209 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 02:00:54,100 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 02:01:41,165 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-03-29 02:01:41,171 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 02:01:44,228 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:01:44,228 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:01:46,695 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 02:01:50,664 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 02:01:53,278 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 02:01:59,242 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-03-29 02:01:59,248 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started 
+2021-03-29 02:02:02,298 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:02:02,299 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:02:04,754 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 02:02:08,748 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 02:02:10,161 [main] INFO logger_File - User click on add to cart button for Canon EOS
+2021-03-29 02:02:12,694 [main] INFO logger_File - User select color from drop down
+2021-03-29 02:02:14,145 [main] INFO logger_File - User selects the quantity
+2021-03-29 02:02:14,183 [main] INFO logger_File - User clicks on add to the cart button
+2021-03-29 02:02:14,184 [main] INFO logger_File - User should see the success message for canon
+2021-03-29 02:02:20,189 [main] INFO logger_File - User add Canon EOS 5Dfrom Desktops tab to the cart   passed
+2021-03-29 02:02:20,191 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-29 02:02:23,260 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:02:23,261 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:02:25,714 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 02:02:29,676 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 02:02:32,235 [main] INFO logger_File - User clicks on Canon Eos5D
+2021-03-29 02:02:33,629 [main] INFO logger_File - User clicks on review link
+2021-03-29 02:02:39,587 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   failed
+2021-03-29 02:05:04,077 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 02:05:07,758 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:05:07,760 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:05:10,287 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 02:05:14,187 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 02:05:16,803 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 02:06:07,834 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-29 02:07:27,402 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-29 02:07:31,179 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:07:31,181 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:07:33,644 [main] INFO logger_File - user clicked on desktop tab
+2021-03-29 02:07:37,552 [main] INFO logger_File - user clicks on show all desktops
+2021-03-29 02:07:40,163 [main] INFO logger_File - User clicks on add to cart option on HPLP
+2021-03-29 02:08:31,204 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-03-29 02:11:41,631 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-29 02:11:45,840 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:11:45,842 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:11:48,370 [main] INFO logger_File - User clicks on laptop and notebook tab
+2021-03-29 02:11:51,749 [main] INFO logger_File - User clicked on show all option for laptop and notebook
+2021-03-29 02:12:37,807 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-29 02:13:14,574 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-29 02:13:18,289 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:13:18,292 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:13:20,834 [main] INFO logger_File - User clicks on laptop and notebook tab
+2021-03-29 02:13:24,582 [main] INFO logger_File - User clicked on show all option for laptop and notebook
+2021-03-29 02:13:24,984 [main] INFO logger_File - User clicks on product comparison icon for any computer
+2021-03-29 02:13:26,452 [main] INFO logger_File - User clicks on product comparison icon for any computer
+2021-03-29 02:13:27,887 [main] INFO logger_File - User should see a success message for MacBookAir product
+2021-03-29 02:13:28,511 [main] INFO logger_File - User clicks on comparison link
+2021-03-29 02:14:14,539 [main] INFO logger_File - Product Comparison   failed
+2021-03-29 02:15:02,710 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-29 02:15:06,365 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:15:06,367 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:15:08,967 [main] INFO logger_File - User clicks on laptop and notebook tab
+2021-03-29 02:15:12,769 [main] INFO logger_File - User clicked on show all option for laptop and notebook
+2021-03-29 02:15:13,183 [main] INFO logger_File - User clicks on Sony Vaio laptop wish list
+2021-03-29 02:15:14,628 [main] INFO logger_File - User should see a message you should create an acount or must login
+2021-03-29 02:15:16,577 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-03-29 02:16:00,551 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-29 02:16:04,423 [main] INFO logger_File - Retail page is opened
+2021-03-29 02:16:04,425 [main] INFO logger_File - Page title  is verified
+2021-03-29 02:16:06,869 [main] INFO logger_File - User clicks on laptop and notebook tab
+2021-03-29 02:16:10,525 [main] INFO logger_File - User clicked on show all option for laptop and notebook
+2021-03-29 02:16:56,600 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   failed
+2021-03-29 22:49:31,058 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-29 22:49:35,557 [main] INFO logger_File - Retail page is opened
+2021-03-29 22:49:35,560 [main] INFO logger_File - Page title  is verified
+2021-03-29 22:50:23,908 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-29 22:50:23,915 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-29 22:50:27,137 [main] INFO logger_File - Retail page is opened
+2021-03-29 22:50:27,137 [main] INFO logger_File - Page title  is verified
+2021-03-29 22:51:15,307 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-29 22:51:15,314 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-29 22:51:18,430 [main] INFO logger_File - Retail page is opened
+2021-03-29 22:51:18,431 [main] INFO logger_File - Page title  is verified
+2021-03-29 23:05:04,749 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-29 23:05:08,666 [main] INFO logger_File - Retail page is opened
+2021-03-29 23:05:08,667 [main] INFO logger_File - Page title  is verified
+2021-03-29 23:05:11,174 [main] INFO logger_File - user clicks on my account
+2021-03-29 23:05:14,611 [main] INFO logger_File - User click on login
+2021-03-29 23:05:15,692 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-29 23:05:15,700 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-29 23:05:19,160 [main] INFO logger_File - Retail page is opened
+2021-03-29 23:05:19,161 [main] INFO logger_File - Page title  is verified
+2021-03-29 23:05:21,592 [main] INFO logger_File - user clicks on my account
+2021-03-29 23:05:24,959 [main] INFO logger_File - User click on login
+2021-03-29 23:05:26,016 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-29 23:05:26,019 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-29 23:05:29,087 [main] INFO logger_File - Retail page is opened
+2021-03-29 23:05:29,088 [main] INFO logger_File - Page title  is verified
+2021-03-29 23:05:31,555 [main] INFO logger_File - user clicks on my account
+2021-03-29 23:05:35,325 [main] INFO logger_File - User click on login
+2021-03-29 23:05:36,387 [main] INFO logger_File - Edit your account Information   failed
+2021-03-29 23:46:44,589 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-29 23:46:47,266 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   undefined
+2021-03-29 23:46:47,272 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-29 23:46:49,230 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   undefined
+2021-03-29 23:46:49,235 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-29 23:46:51,222 [main] INFO logger_File - Edit your account Information   undefined
+2021-03-30 00:02:54,831 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-30 00:02:57,476 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-03-30 00:02:57,485 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-30 00:02:59,435 [main] INFO logger_File - Product Comparison   undefined
+2021-03-30 00:02:59,439 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-30 00:03:01,415 [main] INFO logger_File - Adding an item to Wish list   undefined
+2021-03-30 00:03:01,419 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 00:03:03,362 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   undefined
+2021-03-30 00:50:08,988 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-30 00:50:13,344 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:50:13,348 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:50:15,806 [main] INFO logger_File - User click on DesktopsTob
+2021-03-30 00:50:19,983 [main] INFO logger_File - User click on show all desktops
+2021-03-30 00:50:20,537 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-03-30 00:50:21,547 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-03-30 00:50:21,554 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-30 00:50:25,091 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:50:25,092 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:50:27,514 [main] INFO logger_File - User click on DesktopsTob
+2021-03-30 00:50:31,020 [main] INFO logger_File - User click on show all desktops
+2021-03-30 00:50:31,442 [main] INFO logger_File - User click ADD TO CART option on ‘HP LP
+2021-03-30 00:50:33,136 [main] INFO logger_File - User select quantity
+2021-03-30 00:50:33,555 [main] INFO logger_File - User click add to Cart button
+2021-03-30 00:50:33,924 [main] INFO logger_File - message Success added HP
+2021-03-30 00:50:38,976 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-03-30 00:50:38,983 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-30 00:50:42,598 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:50:42,599 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:50:45,039 [main] INFO logger_File - User click on DesktopsTob
+2021-03-30 00:50:48,537 [main] INFO logger_File - User click on show all desktops
+2021-03-30 00:50:48,942 [main] INFO logger_File - User click ADD TO CART option on Canon EOS
+2021-03-30 00:50:50,671 [main] INFO logger_File - User select color from dropdown
+2021-03-30 00:50:51,062 [main] INFO logger_File - Success Message Canon
+2021-03-30 00:50:56,085 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-30 00:50:56,091 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-30 00:50:59,703 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:50:59,704 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:51:02,145 [main] INFO logger_File - User click on DesktopsTob
+2021-03-30 00:51:06,351 [main] INFO logger_File - User click on show all desktops
+2021-03-30 00:51:06,763 [main] INFO logger_File - User click on Canon EOS
+2021-03-30 00:51:08,542 [main] INFO logger_File - User click on write a review link
+2021-03-30 00:51:09,122 [main] INFO logger_File - user fill the review information with below information
+2021-03-30 00:51:09,500 [main] INFO logger_File - User click on Continue Button
+2021-03-30 00:51:09,854 [main] INFO logger_File - message with Thank you for your review
+2021-03-30 00:51:14,845 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   passed
+2021-03-30 00:52:03,906 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-30 00:52:08,019 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:52:08,022 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:52:10,515 [main] INFO logger_File - User click on Laptop & Notebook tab
+2021-03-30 00:52:14,064 [main] INFO logger_File - User click on Show all Laptop &NoteBook
+2021-03-30 00:52:15,929 [main] INFO logger_File - User click on MacBook item
+2021-03-30 00:52:16,319 [main] INFO logger_File - User click add to Cart button
+2021-03-30 00:52:16,728 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart
+2021-03-30 00:52:17,078 [main] INFO logger_File - see 1Items 602 Showed To The Cart
+2021-03-30 00:52:17,478 [main] INFO logger_File - User click on cart option
+2021-03-30 00:52:17,892 [main] INFO logger_File - user click on red X button to remove the item from cart
+2021-03-30 00:52:18,306 [main] INFO logger_File - item should be removed and cart should show empty
+2021-03-30 00:52:23,345 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-30 00:52:23,350 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-30 00:52:27,157 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:52:27,158 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:52:29,629 [main] INFO logger_File - User click on Laptop & Notebook tab
+2021-03-30 00:52:32,878 [main] INFO logger_File - User click on Show all Laptop &NoteBook
+2021-03-30 00:52:33,273 [main] INFO logger_File - User clicks on comparison icon on MacBook
+2021-03-30 00:52:33,732 [main] INFO logger_File - User clicks on comparison icon on MacBook Air
+2021-03-30 00:52:34,111 [main] INFO logger_File - User should see a success message you have added MacBook Air to your product comparison
+2021-03-30 00:52:34,694 [main] INFO logger_File - User click on product comparison link
+2021-03-30 00:52:35,035 [main] INFO logger_File - User should see product comparison chart
+2021-03-30 00:52:38,014 [main] INFO logger_File - Product Comparison   passed
+2021-03-30 00:52:38,018 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-30 00:52:41,692 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:52:41,692 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:52:44,110 [main] INFO logger_File - User click on Laptop & Notebook tab
+2021-03-30 00:52:47,475 [main] INFO logger_File - User click on Show all Laptop &NoteBook
+2021-03-30 00:52:47,867 [main] INFO logger_File - User click on heart icon to add sony vaio to wish list
+2021-03-30 00:52:48,331 [main] INFO logger_File - User shouls see a message, You must login or create an account
+2021-03-30 00:52:49,342 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-03-30 00:52:49,347 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 00:52:52,727 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:52:52,728 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:52:55,156 [main] INFO logger_File - User click on Laptop & Notebook tab
+2021-03-30 00:52:58,856 [main] INFO logger_File - User click on Show all Laptop &NoteBook
+2021-03-30 00:53:00,959 [main] INFO logger_File - User clicks on MacBook Pro Item
+2021-03-30 00:53:01,330 [main] INFO logger_File - User should see price tag on UI
+2021-03-30 00:53:06,365 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-03-30 00:53:59,215 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 00:54:03,347 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:54:03,349 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:54:05,835 [main] INFO logger_File - User click on MyAccount
+2021-03-30 00:54:06,989 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   undefined
+2021-03-30 00:54:06,994 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 00:54:10,769 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:54:10,770 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:54:13,191 [main] INFO logger_File - User click on MyAccount
+2021-03-30 00:54:14,315 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   undefined
+2021-03-30 00:54:14,321 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 00:54:17,819 [main] INFO logger_File - Retail page is opened
+2021-03-30 00:54:17,819 [main] INFO logger_File - Page title  is verified
+2021-03-30 00:54:20,252 [main] INFO logger_File - User click on MyAccount
+2021-03-30 00:54:21,371 [main] INFO logger_File - Edit your account Information   undefined
+2021-03-30 01:07:40,512 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 01:07:44,603 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:07:44,607 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:07:47,084 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:07:50,474 [main] INFO logger_File - User click on login
+2021-03-30 01:07:50,998 [main] INFO logger_File - User enter password
+2021-03-30 01:07:50,998 [main] INFO logger_File - User enter username
+2021-03-30 01:07:51,736 [main] INFO logger_File - User click on login button
+2021-03-30 01:08:37,722 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 01:08:37,728 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 01:08:41,130 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:08:41,131 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:08:43,620 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:08:47,042 [main] INFO logger_File - User click on login
+2021-03-30 01:08:47,546 [main] INFO logger_File - User enter password
+2021-03-30 01:08:47,547 [main] INFO logger_File - User enter username
+2021-03-30 01:08:48,279 [main] INFO logger_File - User click on login button
+2021-03-30 01:09:34,310 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-30 01:09:34,315 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 01:09:37,639 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:09:37,640 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:09:40,140 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:09:43,620 [main] INFO logger_File - User click on login
+2021-03-30 01:09:44,147 [main] INFO logger_File - User enter password
+2021-03-30 01:09:44,148 [main] INFO logger_File - User enter username
+2021-03-30 01:09:44,882 [main] INFO logger_File - User click on login button
+2021-03-30 01:10:30,874 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 01:22:23,508 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 01:22:27,424 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:22:27,427 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:22:29,928 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:22:33,360 [main] INFO logger_File - User click on login
+2021-03-30 01:22:33,892 [main] INFO logger_File - User enter password
+2021-03-30 01:22:33,893 [main] INFO logger_File - User enter username
+2021-03-30 01:22:34,616 [main] INFO logger_File - User click on login button
+2021-03-30 01:22:34,937 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:23:20,940 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 01:23:20,947 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 01:23:24,377 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:23:24,378 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:23:26,890 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:23:30,233 [main] INFO logger_File - User click on login
+2021-03-30 01:23:30,767 [main] INFO logger_File - User enter password
+2021-03-30 01:23:30,767 [main] INFO logger_File - User enter username
+2021-03-30 01:23:31,563 [main] INFO logger_File - User click on login button
+2021-03-30 01:23:31,888 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:23:32,485 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 01:23:32,869 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 01:23:33,478 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 01:23:34,633 [main] INFO logger_File - User clicks on continue button
+2021-03-30 01:23:35,016 [main] INFO logger_File - User should see a success message
+2021-03-30 01:23:35,967 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 01:23:35,975 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 01:23:39,139 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:23:39,140 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:23:41,575 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:23:42,325 [main] INFO logger_File - User click on login
+2021-03-30 01:23:42,842 [main] INFO logger_File - User enter password
+2021-03-30 01:23:42,842 [main] INFO logger_File - User enter username
+2021-03-30 01:23:45,472 [main] INFO logger_File - User click on login button
+2021-03-30 01:23:45,813 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:23:46,818 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 01:23:47,379 [main] INFO logger_File - User modify below information
+2021-03-30 01:23:48,099 [main] INFO logger_File - User click on continue button
+2021-03-30 01:23:48,455 [main] INFO logger_File - User should see a message ‘Success: Your account has been successfully updated
+2021-03-30 01:23:49,402 [main] INFO logger_File - Edit your account Information   passed
+2021-03-30 01:31:14,836 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 01:31:18,776 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:31:18,779 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:31:21,287 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:31:24,740 [main] INFO logger_File - User click on login
+2021-03-30 01:31:25,261 [main] INFO logger_File - User enter password
+2021-03-30 01:31:25,261 [main] INFO logger_File - User enter username
+2021-03-30 01:31:26,281 [main] INFO logger_File - User click on login button
+2021-03-30 01:31:26,631 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:31:27,220 [main] INFO logger_File - User clicks on Registe Affiliate link
+2021-03-30 01:31:27,824 [main] INFO logger_File - User fill affiliate form with below information
+2021-03-30 01:31:28,208 [main] INFO logger_File - User check on About us check box
+2021-03-30 01:31:29,158 [main] INFO logger_File - User clicks on continue button
+2021-03-30 01:31:29,502 [main] INFO logger_File - User should see a success message
+2021-03-30 01:31:30,476 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-30 01:31:30,481 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 01:31:33,730 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:31:33,731 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:31:36,190 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:31:39,772 [main] INFO logger_File - User click on login
+2021-03-30 01:31:40,284 [main] INFO logger_File - User enter password
+2021-03-30 01:31:40,285 [main] INFO logger_File - User enter username
+2021-03-30 01:31:41,038 [main] INFO logger_File - User click on login button
+2021-03-30 01:31:41,370 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:31:41,954 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 01:31:42,332 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 01:31:42,959 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 01:31:43,695 [main] INFO logger_File - User clicks on continue button
+2021-03-30 01:31:44,053 [main] INFO logger_File - User should see a success message
+2021-03-30 01:31:45,017 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 01:31:45,023 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 01:31:48,998 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:31:48,999 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:31:51,478 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:31:54,303 [main] INFO logger_File - User click on login
+2021-03-30 01:31:54,813 [main] INFO logger_File - User enter password
+2021-03-30 01:31:54,813 [main] INFO logger_File - User enter username
+2021-03-30 01:31:55,574 [main] INFO logger_File - User click on login button
+2021-03-30 01:31:55,890 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:31:56,907 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 01:31:57,461 [main] INFO logger_File - User modify below information
+2021-03-30 01:31:58,084 [main] INFO logger_File - User click on continue button
+2021-03-30 01:32:44,178 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 01:33:35,868 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 01:33:39,923 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:33:39,926 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:33:42,414 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:33:45,827 [main] INFO logger_File - User click on login
+2021-03-30 01:33:46,357 [main] INFO logger_File - User enter password
+2021-03-30 01:33:46,357 [main] INFO logger_File - User enter username
+2021-03-30 01:33:47,087 [main] INFO logger_File - User click on login button
+2021-03-30 01:33:47,414 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:34:33,429 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 01:34:33,433 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 01:34:36,980 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:34:36,981 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:34:39,400 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:34:42,709 [main] INFO logger_File - User click on login
+2021-03-30 01:34:43,241 [main] INFO logger_File - User enter password
+2021-03-30 01:34:43,242 [main] INFO logger_File - User enter username
+2021-03-30 01:34:43,981 [main] INFO logger_File - User click on login button
+2021-03-30 01:34:44,318 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:34:44,897 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 01:34:45,281 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 01:34:45,880 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 01:34:46,594 [main] INFO logger_File - User clicks on continue button
+2021-03-30 01:34:46,940 [main] INFO logger_File - User should see a success message
+2021-03-30 01:34:47,908 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 01:34:47,917 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 01:34:51,110 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:34:51,110 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:34:53,538 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:34:54,267 [main] INFO logger_File - User click on login
+2021-03-30 01:34:54,808 [main] INFO logger_File - User enter password
+2021-03-30 01:34:54,808 [main] INFO logger_File - User enter username
+2021-03-30 01:34:57,412 [main] INFO logger_File - User click on login button
+2021-03-30 01:34:57,729 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:34:58,698 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 01:34:59,691 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 01:46:48,104 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 01:46:52,110 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:46:52,116 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:46:54,614 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:46:57,958 [main] INFO logger_File - User click on login
+2021-03-30 01:46:58,488 [main] INFO logger_File - User enter password
+2021-03-30 01:46:58,489 [main] INFO logger_File - User enter username
+2021-03-30 01:46:59,198 [main] INFO logger_File - User click on login button
+2021-03-30 01:46:59,520 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:47:45,499 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 01:47:45,506 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 01:47:49,863 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:47:49,865 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:47:52,307 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:47:54,815 [main] INFO logger_File - User click on login
+2021-03-30 01:47:55,324 [main] INFO logger_File - User enter password
+2021-03-30 01:47:55,325 [main] INFO logger_File - User enter username
+2021-03-30 01:47:56,730 [main] INFO logger_File - User click on login button
+2021-03-30 01:47:57,052 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:47:58,824 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 01:47:59,213 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 01:47:59,842 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 01:48:00,968 [main] INFO logger_File - User clicks on continue button
+2021-03-30 01:48:01,342 [main] INFO logger_File - User should see a success message
+2021-03-30 01:48:02,321 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 01:48:02,324 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 01:48:05,572 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:48:05,573 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:48:08,010 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:48:11,614 [main] INFO logger_File - User click on login
+2021-03-30 01:48:12,124 [main] INFO logger_File - User enter password
+2021-03-30 01:48:12,124 [main] INFO logger_File - User enter username
+2021-03-30 01:48:12,854 [main] INFO logger_File - User click on login button
+2021-03-30 01:48:13,186 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:48:14,138 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 01:48:14,695 [main] INFO logger_File - User modify below information
+2021-03-30 01:48:15,102 [main] INFO logger_File - User click on continue button
+2021-03-30 01:49:01,193 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 01:50:03,430 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 01:50:07,300 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:50:07,304 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:50:09,843 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:50:13,415 [main] INFO logger_File - User click on login
+2021-03-30 01:50:13,958 [main] INFO logger_File - User enter password
+2021-03-30 01:50:13,959 [main] INFO logger_File - User enter username
+2021-03-30 01:50:14,839 [main] INFO logger_File - User click on login button
+2021-03-30 01:50:15,166 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:50:15,860 [main] INFO logger_File - User clicks on Registe Affiliate link
+2021-03-30 01:50:16,473 [main] INFO logger_File - User fill affiliate form with below information
+2021-03-30 01:50:16,869 [main] INFO logger_File - User check on About us check box
+2021-03-30 01:50:17,706 [main] INFO logger_File - User clicks on continue button
+2021-03-30 01:50:18,064 [main] INFO logger_File - User should see a success message
+2021-03-30 01:50:19,038 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-30 01:50:19,047 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 01:50:22,398 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:50:22,398 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:50:24,832 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:50:28,357 [main] INFO logger_File - User click on login
+2021-03-30 01:50:28,871 [main] INFO logger_File - User enter password
+2021-03-30 01:50:28,872 [main] INFO logger_File - User enter username
+2021-03-30 01:50:29,590 [main] INFO logger_File - User click on login button
+2021-03-30 01:50:29,906 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:50:30,474 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 01:50:30,864 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 01:50:31,465 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 01:50:32,203 [main] INFO logger_File - User clicks on continue button
+2021-03-30 01:50:32,550 [main] INFO logger_File - User should see a success message
+2021-03-30 01:50:33,504 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 01:50:33,510 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 01:50:36,918 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:50:36,918 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:50:39,336 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:50:42,817 [main] INFO logger_File - User click on login
+2021-03-30 01:50:43,369 [main] INFO logger_File - User enter password
+2021-03-30 01:50:43,370 [main] INFO logger_File - User enter username
+2021-03-30 01:50:44,089 [main] INFO logger_File - User click on login button
+2021-03-30 01:50:44,413 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 01:50:45,371 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 01:50:46,339 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 01:55:58,652 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 01:56:03,210 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:56:03,213 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:56:05,717 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:56:09,206 [main] INFO logger_File - User click on login
+2021-03-30 01:56:10,289 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   undefined
+2021-03-30 01:56:10,292 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 01:56:13,439 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:56:13,439 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:56:15,925 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:56:19,677 [main] INFO logger_File - User click on login
+2021-03-30 01:56:20,754 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   undefined
+2021-03-30 01:56:20,758 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 01:56:23,885 [main] INFO logger_File - Retail page is opened
+2021-03-30 01:56:23,886 [main] INFO logger_File - Page title  is verified
+2021-03-30 01:56:26,359 [main] INFO logger_File - User click on MyAccount
+2021-03-30 01:56:30,006 [main] INFO logger_File - User click on login
+2021-03-30 01:56:31,060 [main] INFO logger_File - Edit your account Information   undefined
+2021-03-30 02:00:31,017 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 02:00:35,051 [main] INFO logger_File - Retail page is opened
+2021-03-30 02:00:35,054 [main] INFO logger_File - Page title  is verified
+2021-03-30 02:00:37,533 [main] INFO logger_File - User click on MyAccount
+2021-03-30 02:00:40,978 [main] INFO logger_File - User click on login
+2021-03-30 02:00:42,056 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 02:00:42,063 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 02:00:45,465 [main] INFO logger_File - Retail page is opened
+2021-03-30 02:00:45,466 [main] INFO logger_File - Page title  is verified
+2021-03-30 02:00:47,906 [main] INFO logger_File - User click on MyAccount
+2021-03-30 02:00:51,371 [main] INFO logger_File - User click on login
+2021-03-30 02:00:52,408 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-30 02:00:52,411 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 02:00:55,817 [main] INFO logger_File - Retail page is opened
+2021-03-30 02:00:55,818 [main] INFO logger_File - Page title  is verified
+2021-03-30 02:00:58,248 [main] INFO logger_File - User click on MyAccount
+2021-03-30 02:01:01,719 [main] INFO logger_File - User click on login
+2021-03-30 02:01:02,776 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 02:06:13,465 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 02:06:17,528 [main] INFO logger_File - Retail page is opened
+2021-03-30 02:06:17,532 [main] INFO logger_File - Page title  is verified
+2021-03-30 02:06:19,993 [main] INFO logger_File - User click on MyAccount
+2021-03-30 02:06:23,447 [main] INFO logger_File - User click on login
+2021-03-30 02:06:24,545 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 02:06:24,548 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 02:06:27,913 [main] INFO logger_File - Retail page is opened
+2021-03-30 02:06:27,914 [main] INFO logger_File - Page title  is verified
+2021-03-30 02:06:30,372 [main] INFO logger_File - User click on MyAccount
+2021-03-30 02:06:33,815 [main] INFO logger_File - User click on login
+2021-03-30 02:06:34,861 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-30 02:06:34,868 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 02:06:38,627 [main] INFO logger_File - Retail page is opened
+2021-03-30 02:06:38,628 [main] INFO logger_File - Page title  is verified
+2021-03-30 02:06:41,040 [main] INFO logger_File - User click on MyAccount
+2021-03-30 02:06:44,228 [main] INFO logger_File - User click on login
+2021-03-30 02:06:45,265 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 14:14:07,422 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 14:14:11,615 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:14:11,619 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:14:14,094 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:14:17,664 [main] INFO logger_File - User click on login
+2021-03-30 14:14:18,736 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 14:14:18,740 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 14:14:22,045 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:14:22,046 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:14:24,461 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:14:27,982 [main] INFO logger_File - User click on login
+2021-03-30 14:14:29,044 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-30 14:14:29,048 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 14:14:32,218 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:14:32,219 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:14:34,711 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:14:38,360 [main] INFO logger_File - User click on login
+2021-03-30 14:14:39,393 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 14:18:13,943 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 14:18:18,466 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:18:18,471 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:18:20,959 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:18:23,914 [main] INFO logger_File - User click on login
+2021-03-30 14:18:24,990 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 14:18:24,995 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 14:18:28,355 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:18:28,356 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:18:30,775 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:18:34,608 [main] INFO logger_File - User click on login
+2021-03-30 14:18:35,686 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-03-30 14:18:35,690 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 14:18:39,106 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:18:39,107 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:18:41,522 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:18:44,974 [main] INFO logger_File - User click on login
+2021-03-30 14:18:46,027 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 14:27:26,780 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 14:27:30,659 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:27:30,663 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:27:33,126 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:27:36,692 [main] INFO logger_File - User click on login
+2021-03-30 14:27:37,737 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   undefined
+2021-03-30 14:27:37,743 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 14:27:40,943 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:27:40,944 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:27:43,385 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:27:46,978 [main] INFO logger_File - User click on login
+2021-03-30 14:27:47,991 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   undefined
+2021-03-30 14:27:47,998 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 14:27:51,020 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:27:51,020 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:27:53,495 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:27:54,223 [main] INFO logger_File - User click on login
+2021-03-30 14:27:55,225 [main] INFO logger_File - Edit your account Information   undefined
+2021-03-30 14:29:04,678 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 14:29:08,404 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:29:08,406 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:29:10,964 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:29:14,556 [main] INFO logger_File - User click on login
+2021-03-30 14:29:15,109 [main] INFO logger_File - User enter password
+2021-03-30 14:29:15,110 [main] INFO logger_File - User enter username
+2021-03-30 14:29:15,845 [main] INFO logger_File - User click on login button
+2021-03-30 14:29:16,167 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 14:30:02,177 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 14:30:02,183 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 14:30:05,307 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:30:05,308 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:30:07,838 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:30:11,453 [main] INFO logger_File - User click on login
+2021-03-30 14:30:11,956 [main] INFO logger_File - User enter password
+2021-03-30 14:30:11,957 [main] INFO logger_File - User enter username
+2021-03-30 14:30:12,653 [main] INFO logger_File - User click on login button
+2021-03-30 14:30:12,985 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 14:30:13,573 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 14:30:13,964 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 14:30:14,575 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 14:30:15,284 [main] INFO logger_File - User clicks on continue button
+2021-03-30 14:30:15,641 [main] INFO logger_File - User should see a success message
+2021-03-30 14:30:16,611 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 14:30:16,617 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 14:30:19,690 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:30:19,691 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:30:22,123 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:30:25,854 [main] INFO logger_File - User click on login
+2021-03-30 14:30:26,354 [main] INFO logger_File - User enter password
+2021-03-30 14:30:26,355 [main] INFO logger_File - User enter username
+2021-03-30 14:30:27,047 [main] INFO logger_File - User click on login button
+2021-03-30 14:30:27,404 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 14:30:28,390 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 14:30:28,937 [main] INFO logger_File - User modify below information
+2021-03-30 14:30:29,341 [main] INFO logger_File - User click on continue button
+2021-03-30 14:31:15,385 [main] INFO logger_File - Edit your account Information   failed
+2021-03-30 14:57:54,101 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 14:57:58,119 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:57:58,122 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:58:00,615 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:58:04,021 [main] INFO logger_File - User click on login
+2021-03-30 14:58:04,518 [main] INFO logger_File - User enter password
+2021-03-30 14:58:04,518 [main] INFO logger_File - User enter username
+2021-03-30 14:58:05,265 [main] INFO logger_File - User click on login button
+2021-03-30 14:58:05,613 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 14:58:51,650 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 14:58:51,656 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 14:58:54,811 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:58:54,811 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:58:57,348 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:59:00,930 [main] INFO logger_File - User click on login
+2021-03-30 14:59:01,430 [main] INFO logger_File - User enter password
+2021-03-30 14:59:01,430 [main] INFO logger_File - User enter username
+2021-03-30 14:59:02,190 [main] INFO logger_File - User click on login button
+2021-03-30 14:59:02,541 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 14:59:03,140 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 14:59:03,513 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 14:59:04,135 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 14:59:04,866 [main] INFO logger_File - User clicks on continue button
+2021-03-30 14:59:05,217 [main] INFO logger_File - User should see a success message
+2021-03-30 14:59:06,167 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 14:59:06,175 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 14:59:09,212 [main] INFO logger_File - Retail page is opened
+2021-03-30 14:59:09,213 [main] INFO logger_File - Page title  is verified
+2021-03-30 14:59:11,717 [main] INFO logger_File - User click on MyAccount
+2021-03-30 14:59:15,453 [main] INFO logger_File - User click on login
+2021-03-30 14:59:15,952 [main] INFO logger_File - User enter password
+2021-03-30 14:59:15,952 [main] INFO logger_File - User enter username
+2021-03-30 14:59:16,660 [main] INFO logger_File - User click on login button
+2021-03-30 14:59:16,993 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 14:59:17,920 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 14:59:18,456 [main] INFO logger_File - User modify below information
+2021-03-30 14:59:18,835 [main] INFO logger_File - User click on continue button
+2021-03-30 14:59:38,255 [main] INFO logger_File - User should see a message ‘Success: Your account has been successfully updated
+2021-03-30 14:59:39,225 [main] INFO logger_File - Edit your account Information   passed
+2021-03-30 15:07:09,246 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 15:07:13,000 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:07:13,004 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:07:15,503 [main] INFO logger_File - User click on MyAccount
+2021-03-30 15:07:19,223 [main] INFO logger_File - User click on login
+2021-03-30 15:07:19,757 [main] INFO logger_File - User enter password
+2021-03-30 15:07:19,757 [main] INFO logger_File - User enter username
+2021-03-30 15:07:20,500 [main] INFO logger_File - User click on login button
+2021-03-30 15:07:20,838 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 15:07:21,408 [main] INFO logger_File - User clicks on Registe Affiliate link
+2021-03-30 15:08:07,768 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-30 15:08:07,774 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 15:08:10,924 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:08:10,925 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:08:13,450 [main] INFO logger_File - User click on MyAccount
+2021-03-30 15:08:17,069 [main] INFO logger_File - User click on login
+2021-03-30 15:08:17,585 [main] INFO logger_File - User enter password
+2021-03-30 15:08:17,585 [main] INFO logger_File - User enter username
+2021-03-30 15:08:18,322 [main] INFO logger_File - User click on login button
+2021-03-30 15:08:18,651 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 15:08:19,205 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 15:08:19,568 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 15:08:20,171 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 15:08:20,850 [main] INFO logger_File - User clicks on continue button
+2021-03-30 15:08:21,204 [main] INFO logger_File - User should see a success message
+2021-03-30 15:08:22,145 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 15:08:22,153 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 15:08:25,125 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:08:25,126 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:08:27,677 [main] INFO logger_File - User click on MyAccount
+2021-03-30 15:08:31,459 [main] INFO logger_File - User click on login
+2021-03-30 15:08:31,956 [main] INFO logger_File - User enter password
+2021-03-30 15:08:31,956 [main] INFO logger_File - User enter username
+2021-03-30 15:08:32,657 [main] INFO logger_File - User click on login button
+2021-03-30 15:08:32,975 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 15:08:33,908 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 15:08:34,440 [main] INFO logger_File - User modify below information
+2021-03-30 15:08:35,131 [main] INFO logger_File - User click on continue button
+2021-03-30 15:08:35,478 [main] INFO logger_File - User should see a message ‘Success: Your account has been successfully updated
+2021-03-30 15:08:36,439 [main] INFO logger_File - Edit your account Information   passed
+2021-03-30 15:13:21,981 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-30 15:13:25,651 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:13:25,653 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:13:28,158 [main] INFO logger_File - User click on MyAccount
+2021-03-30 15:13:31,895 [main] INFO logger_File - User click on login
+2021-03-30 15:13:32,416 [main] INFO logger_File - User enter password
+2021-03-30 15:13:32,416 [main] INFO logger_File - User enter username
+2021-03-30 15:13:33,117 [main] INFO logger_File - User click on login button
+2021-03-30 15:13:33,442 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 15:13:34,024 [main] INFO logger_File - User clicks on Registe Affiliate link
+2021-03-30 15:13:34,634 [main] INFO logger_File - User fill affiliate form with below information
+2021-03-30 15:13:35,031 [main] INFO logger_File - User check on About us check box
+2021-03-30 15:13:36,021 [main] INFO logger_File - User clicks on continue button
+2021-03-30 15:13:36,383 [main] INFO logger_File - User should see a success message
+2021-03-30 15:13:37,355 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-30 15:13:37,362 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-30 15:13:40,531 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:13:40,531 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:13:42,969 [main] INFO logger_File - User click on MyAccount
+2021-03-30 15:13:46,632 [main] INFO logger_File - User click on login
+2021-03-30 15:13:47,143 [main] INFO logger_File - User enter password
+2021-03-30 15:13:47,144 [main] INFO logger_File - User enter username
+2021-03-30 15:13:47,845 [main] INFO logger_File - User click on login button
+2021-03-30 15:13:48,157 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 15:13:48,744 [main] INFO logger_File - User click on Edit affiliate infolink
+2021-03-30 15:13:49,127 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-03-30 15:13:49,735 [main] INFO logger_File - User fill Bank information with below inf
+2021-03-30 15:13:50,484 [main] INFO logger_File - User clicks on continue button
+2021-03-30 15:13:50,831 [main] INFO logger_File - User should see a success message
+2021-03-30 15:13:51,779 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-30 15:13:51,782 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-30 15:13:54,902 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:13:54,903 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:13:57,343 [main] INFO logger_File - User click on MyAccount
+2021-03-30 15:14:01,132 [main] INFO logger_File - User click on login
+2021-03-30 15:14:01,660 [main] INFO logger_File - User enter password
+2021-03-30 15:14:01,661 [main] INFO logger_File - User enter username
+2021-03-30 15:14:02,350 [main] INFO logger_File - User click on login button
+2021-03-30 15:14:02,694 [main] INFO logger_File - User should be logged in and see the dashboard
+2021-03-30 15:14:03,623 [main] INFO logger_File - User click on Edit your account info link
+2021-03-30 15:14:04,173 [main] INFO logger_File - User modify below information
+2021-03-30 15:14:04,848 [main] INFO logger_File - User click on continue button
+2021-03-30 15:14:05,208 [main] INFO logger_File - User should see a message ‘Success: Your account has been successfully updated
+2021-03-30 15:14:06,160 [main] INFO logger_File - Edit your account Information   passed
+2021-03-30 15:15:46,426 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started 
+2021-03-30 15:15:50,058 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:15:50,061 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:15:52,584 [main] INFO logger_File - User click on DesktopsTob
+2021-03-30 15:15:56,184 [main] INFO logger_File - User click on show all desktops
+2021-03-30 15:15:56,719 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-03-30 15:15:57,780 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-03-30 15:15:57,786 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-03-30 15:16:00,965 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:16:00,967 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:16:03,458 [main] INFO logger_File - User click on DesktopsTob
+2021-03-30 15:16:07,016 [main] INFO logger_File - User click on show all desktops
+2021-03-30 15:16:07,430 [main] INFO logger_File - User click ADD TO CART option on ‘HP LP
+2021-03-30 15:16:08,859 [main] INFO logger_File - User select quantity
+2021-03-30 15:16:09,278 [main] INFO logger_File - User click add to Cart button
+2021-03-30 15:16:09,641 [main] INFO logger_File - message Success added HP
+2021-03-30 15:16:14,712 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-03-30 15:16:14,719 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-30 15:16:17,998 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:16:18,000 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:16:20,488 [main] INFO logger_File - User click on DesktopsTob
+2021-03-30 15:16:23,975 [main] INFO logger_File - User click on show all desktops
+2021-03-30 15:16:24,411 [main] INFO logger_File - User click ADD TO CART option on Canon EOS
+2021-03-30 15:16:25,954 [main] INFO logger_File - User select color from dropdown
+2021-03-30 15:16:26,360 [main] INFO logger_File - Success Message Canon
+2021-03-30 15:16:31,400 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-30 15:16:31,408 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started 
+2021-03-30 15:16:34,491 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:16:34,492 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:16:36,971 [main] INFO logger_File - User click on DesktopsTob
+2021-03-30 15:16:40,639 [main] INFO logger_File - User click on show all desktops
+2021-03-30 15:16:41,043 [main] INFO logger_File - User click on Canon EOS
+2021-03-30 15:16:42,452 [main] INFO logger_File - User click on write a review link
+2021-03-30 15:16:42,988 [main] INFO logger_File - user fill the review information with below information
+2021-03-30 15:16:43,399 [main] INFO logger_File - User click on Continue Button
+2021-03-30 15:16:43,787 [main] INFO logger_File - message with Thank you for your review
+2021-03-30 15:16:48,823 [main] INFO logger_File - User add a review to Canon EOS 5D item inDesktops tab   passed
+2021-03-30 15:17:27,847 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-30 15:17:31,571 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:17:31,574 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:17:34,118 [main] INFO logger_File - User click on Laptop & Notebook tab
+2021-03-30 15:17:37,946 [main] INFO logger_File - User click on Show all Laptop &NoteBook
+2021-03-30 15:17:39,430 [main] INFO logger_File - User click on MacBook item
+2021-03-30 15:17:39,817 [main] INFO logger_File - User click add to Cart button
+2021-03-30 15:17:40,238 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook to your shopping cart
+2021-03-30 15:17:40,596 [main] INFO logger_File - see 1Items 602 Showed To The Cart
+2021-03-30 15:17:40,990 [main] INFO logger_File - User click on cart option
+2021-03-30 15:17:41,414 [main] INFO logger_File - user click on red X button to remove the item from cart
+2021-03-30 15:17:41,805 [main] INFO logger_File - item should be removed and cart should show empty
+2021-03-30 15:17:46,839 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-30 15:17:46,845 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-30 15:17:49,898 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:17:49,898 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:17:52,366 [main] INFO logger_File - User click on Laptop & Notebook tab
+2021-03-30 15:17:56,344 [main] INFO logger_File - User click on Show all Laptop &NoteBook
+2021-03-30 15:17:56,763 [main] INFO logger_File - User clicks on comparison icon on MacBook
+2021-03-30 15:17:57,228 [main] INFO logger_File - User clicks on comparison icon on MacBook Air
+2021-03-30 15:17:57,647 [main] INFO logger_File - User should see a success message you have added MacBook Air to your product comparison
+2021-03-30 15:17:58,226 [main] INFO logger_File - User click on product comparison link
+2021-03-30 15:17:58,557 [main] INFO logger_File - User should see product comparison chart
+2021-03-30 15:18:01,485 [main] INFO logger_File - Product Comparison   passed
+2021-03-30 15:18:01,488 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-30 15:18:04,594 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:18:04,594 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:18:07,030 [main] INFO logger_File - User click on Laptop & Notebook tab
+2021-03-30 15:18:10,989 [main] INFO logger_File - User click on Show all Laptop &NoteBook
+2021-03-30 15:18:11,398 [main] INFO logger_File - User click on heart icon to add sony vaio to wish list
+2021-03-30 15:18:11,878 [main] INFO logger_File - User shouls see a message, You must login or create an account
+2021-03-30 15:18:12,888 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-03-30 15:18:12,896 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 15:18:16,042 [main] INFO logger_File - Retail page is opened
+2021-03-30 15:18:16,043 [main] INFO logger_File - Page title  is verified
+2021-03-30 15:18:18,515 [main] INFO logger_File - User click on Laptop & Notebook tab
+2021-03-30 15:18:22,461 [main] INFO logger_File - User click on Show all Laptop &NoteBook
+2021-03-30 15:18:24,006 [main] INFO logger_File - User clicks on MacBook Pro Item
+2021-03-30 15:18:24,372 [main] INFO logger_File - User should see price tag on UI
+2021-03-30 15:18:29,388 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
